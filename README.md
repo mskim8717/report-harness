@@ -15,11 +15,7 @@ claude
 - `git`이 없다는 메시지가 나오면: 이 페이지 위쪽 **Code → Download ZIP**으로 받아 압축을 풀고, 폴더 이름을 `report-harness`로 바꿔 홈 폴더에 둡니다.
 - `claude`를 넣었을 때 아래쪽에 입력창이 뜨면 됩니다. 처음 열 때 이 폴더를 신뢰하는지 물으면 신뢰한다고 답합니다.
 
-입력창이 뜨면 영국 NAO 원문을 받습니다. 이 PDF는 NAO 저작권 조건 때문에 저장소에 넣지 않았고, 공식 사이트에서 각자 받습니다. 아래 문장을 Claude 입력창에 붙여 넣고, 확인 창이 뜨면 허용을 고릅니다.
-
-```
-영국 NAO의 AI 전략 원문 PDF를 공식 주소 https://www.nao.org.uk/wp-content/uploads/2026/08/The-NAOs-AI-Strategy.pdf 에서 받아 sources/해외감사기구/The-NAOs-AI-Strategy.pdf로 저장해줘. 다른 파일은 고치지 마.
-```
+영국 NAO 원문 PDF는 저작권 조건 때문에 저장소에 넣지 않았습니다. 아래 「실습 시나리오」 2단계에서 공식 사이트에서 각자 받습니다.
 
 ## 폴더
 
@@ -47,9 +43,15 @@ report-harness/
 
 **1단계 · 설치.** 터미널에서 `claude`를 켜고 요청합니다.
 
-> https://github.com/mskim8717/report-harness 를 clone해서 그 폴더로 들어가고, CLAUDE.md를 읽고 이 하네스에서 누가 무엇을 만드는지 설명해줘. 그리고 영국 NAO의 AI 전략 PDF를 공식 주소 https://www.nao.org.uk/wp-content/uploads/2026/08/The-NAOs-AI-Strategy.pdf 에서 받아 sources/해외감사기구/The-NAOs-AI-Strategy.pdf 로 저장해줘.
+> https://github.com/mskim8717/report-harness 를 clone해서 그 폴더로 들어가고, CLAUDE.md를 읽고 이 하네스에서 누가 무엇을 만드는지 설명해줘.
 
 **2단계 · 자료 수집** (원문 → 근거표).
+
+먼저 저장소에 없는 NAO 원문을 공식 주소에서 받습니다(저작권 조건 때문에 각자 받습니다). 확인 창이 뜨면 허용합니다.
+
+> 영국 NAO의 AI 전략 PDF를 공식 주소 https://www.nao.org.uk/wp-content/uploads/2026/08/The-NAOs-AI-Strategy.pdf 에서 받아 sources/해외감사기구/The-NAOs-AI-Strategy.pdf 로 저장해줘. 다른 파일은 고치지 마.
+
+그다음 수집을 요청합니다.
 
 > GAO, NAO, ECA 같은 해외 감사기구가 감사 업무에 AI를 어떻게 쓰고 무엇을 계획하는지 공식 자료를 수집해줘. 기관마다 근거 2건 이상.
 
