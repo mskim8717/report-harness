@@ -2,7 +2,7 @@
 """근거표 형식 검사. 사실이 원문과 맞는지는 검사하지 않는다(그건 source-verifier와 사람이 한다).
 
 사용: python3 tools/check_evidence.py                 # evidence/*.md 전부
-      python3 tools/check_evidence.py evidence/국회예산정책처_AI예산.md
+      python3 tools/check_evidence.py evidence/<주제>.md
 검사: 표 머리 6열 · 행마다 6칸 · 첫 칸의 근거 번호(E-1 같은 형식, 1부터 차례대로) ·
       원문 칸의 URL · 정확한 위치 칸 · 확인 상태 어휘(CLAUDE.md 사실 기록 원칙).
 문제가 있으면 파일 줄 번호와 함께 FAIL을 출력하고 종료 코드 1을 돌려준다.
