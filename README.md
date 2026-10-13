@@ -27,25 +27,31 @@ claude
 report-harness/
 ├── CLAUDE.md              규칙: 폴더·파일 이름·근거표와 위키 형식·보고서 형식
 ├── .claude/skills/
-│   ├── collect-official-sources/   해외 감사기구 자료 수집 — 절차 1~4는 강의에서 채운다
-│   ├── collect-nabo-budget/        국회예산정책처 예산 자료 수집 (완성본)
-│   └── write-report-section/       보고서 초안 쓰기 (완성본)
-├── .claude/agents/source-verifier.md   검토 담당자: 근거표 한 행을 원문과 대조
+│   ├── collect-official-sources/   해외 감사기구 자료 수집 (원문 → 근거표 → 위키)
+│   ├── collect-nabo-budget/        국회예산정책처 예산 자료 수집
+│   └── write-report-section/       보고서 초안 쓰기 (위키 → 보고서)
+├── .claude/agents/
+│   ├── source-verifier.md          검토 담당자: 근거표 한 행을 원문과 대조
+│   └── report-reviewer.md          평가 담당자: 보고서 초안을 여섯 기준으로 채점
 ├── .claude/settings.json  sources/ 수정 금지 · 공식 사이트 읽기 허용
 ├── sources/               공식 원문 (읽기 전용, 폴더마다 _출처.md)
 ├── brief/                 의뢰서 — 템플릿과 예산 주제 의뢰서
 ├── evidence/  wiki/  report/   근거표 · 위키 · 보고서 초안 (스킬이 만든다). report/_보고서_템플릿.md는 초안의 머리·뼈대
 ├── tools/check_evidence.py     근거표 형식 검사
-└── 교재/입력문카드.md      강의에서 복사해 붙여 넣는 카드
+└── 교재/실습_시나리오.md   다섯 단계 실습 시나리오와 예시 요청문
 ```
 
 ## 강의에서
 
-`교재/입력문카드.md`의 카드를 순서대로 복사해 Claude 입력창에 붙여 넣습니다. 타이핑하지 않습니다.
+`교재/실습_시나리오.md`의 다섯 단계를 따라 Claude Code에 말로 요청합니다. 같은 다섯 단계를 해외 감사기구 자료와 국회예산정책처 자료로 두 번 돕니다.
 
-- 직접 만드는 것: 수집 스킬의 절차 네 줄, 해외 감사기구 주제의 의뢰서 한 장
-- 스킬이 만드는 것: 두 주제의 근거표·위키·보고서 초안
-- 직접 확인하는 것: 보고서 문장 → 근거표 행 → 원문 쪽, 검토 담당자의 판정 표
+1. 설치: clone, CLAUDE.md 읽기, NAO 원문 받기
+2. 자료 수집: 공식 원문 → 근거표 (`evidence/`)
+3. 위키 구조화: 근거표 → 위키 (`wiki/`)
+4. 보고서 초안: 위키 → 근거 번호가 붙은 초안 (`report/`)
+5. 평가: `report-reviewer`가 여섯 기준(근거 연결·근거표 밖 수치·원문 일치·상태와 단위·해석 분리·형식)으로 채점, 실패 항목은 근거표부터 고쳐 재평가
+
+확인하는 것: 보고서 문장 → 근거표 행 → 원문 쪽이 한 줄로 이어지는지.
 
 ## 원문 자료와 이용 조건
 
