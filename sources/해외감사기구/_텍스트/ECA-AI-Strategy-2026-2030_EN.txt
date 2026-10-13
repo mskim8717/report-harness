@@ -1,0 +1,923 @@
+# ECA-AI-Strategy-2026-2030_EN.pdf 텍스트 추출본
+# 원본: ../ECA-AI-Strategy-2026-2030_EN.pdf · pdftotext -layout로 쪽마다 추출(2026-10-13). 표의 줄 맞춤은 원본과 다를 수 있다. 위치는 아래 'PDF n쪽' 표시를 쓰고, 숫자는 원본 PDF 화면에서 다시 확인한다. 이 자료는 문서에 찍힌 쪽 번호와 PDF 쪽 번호가 같다.
+
+=== PDF 1쪽 ===
+EN
+
+ Artificial
+ Intelligence
+ strategy
+
+ 2026-2030
+
+=== PDF 2쪽 ===
+                                                                     2
+
+
+
+Contents
+
+Introduction                                                         3
+
+The evolving landscape                                               5
+
+AI governance at the ECA                                             7
+
+The ECA’s strategic AI goals                                         8
+Goal 1: Enhance operational efficiency and quality                   8
+Goal 2: Strengthen the ECA’s capability to audit AI-based
+projects, systems and processes                                      9
+Goal 3: Add value and contribute to EU-wide and international
+discussions on AI                                                    10
+
+Strategic AI actions                                                 11
+Action 1: extend access to tested AI tools to all staff, and
+continue evaluating new solutions                                    12
+Action 2: ensure that audit data is “AI-ready”                       13
+Action 3: identify and improve audit processes to enable
+AI automation                                                        14
+Action 4: develop people and capabilities                            15
+Action 5: evaluate the potential of AI functionalities in existing
+tools                                                                16
+Action 6: monitor and adopt upcoming principle-based
+requirements and application material on auditing AI                 17
+Action 7: work with other public institutions on AI solutions        17
+Action 8: ensure ECA compliance with regulatory frameworks           18
+Action 9: explore how AI could streamline administrative
+processes                                                            19
+
+Conclusion                                                           21
+
+Annexes                                                              22
+Annex I – Overview of existing standards relevant for AI audit       22
+
+=== PDF 3쪽 ===
+                                                                                           3
+
+
+
+Introduction
+01 The initial artificial intelligence strategy adopted by the European Court of Auditors
+(ECA) in 2024 laid a solid foundation, focusing on the essential activities required to
+prepare the organisation for the adoption of AI technologies. These included
+establishing a framework, deploying infrastructure tools, recruiting personnel with
+specialised skills, developing key competencies among staff, and fostering an
+organisational culture of innovation and continuous improvement.
+
+02 The ECA has successfully completed the activities outlined in the initial strategy.
+This will allow us to embark on more ambitious projects that will enhance efficiency
+and improve the quality of the ECA's outputs in the medium to long term.
+
+
+  Box 1
+
+  The ECA’s vision for artificial intelligence
+  We will use artificial intelligence to improve the quality and efficiency of our audit
+  and support processes, thereby adding value through our work. We will equip
+  staff with innovative and intelligent tools, while maintaining professional ethics,
+  independence and regulatory compliance.
+
+  We plan to achieve this by:
+
+  o    identifying audit processes and other areas where AI can deliver substantial
+       benefits;
+
+  o    deploying AI tools and solutions to maximise impact;
+
+  o    upskilling and reskilling our staff; and
+
+  o    integrating safe, secure and compliant AI agents into our audit processes.
+
+
+03 One notable success of the previous strategy was providing more than half of our
+staff with generative AI and related training. The next step is providing all staff with
+these tools by early 2026, ensuring that everyone in the organisation can benefit from
+AI-driven solutions.
+
+=== PDF 4쪽 ===
+                                                                                           4
+
+
+04 As five years is a considerable length of time, particularly in the rapidly evolving
+field of technology, the new AI strategy is deliberately structured around broad,
+strategic pillars that are essential for advancing the ECA’s goals. We are also planning a
+mid-term strategy review to ensure that we are making proper progress toward
+achieving our objectives. This review will allow us to assess and address the significant
+developments that are likely to have emerged in the field of AI by that stage.
+
+05 Although this document primarily highlights examples relevant to audit, both the
+proposed actions and the resulting synergies have the potential to benefit all ECA
+activities.
+
+06 Given the diverse and sometimes competing needs across the organisation, it is
+crucial to carefully prioritise initiatives and ensure that adequate resources are
+allocated where most needed.
+
+07 Importantly, the strategy does not specify any projects or detailed activities at this
+stage, except for some illustrative examples that clarify the overarching aims. Instead,
+the operational details will be shaped and formalised through annual work
+programmes developed by the relevant departments. This approach provides the
+flexibility needed to adapt to emerging technological trends and organisational
+requirements, while supporting the gradual, well‑controlled use of data‑driven
+approaches in audit processes. By maintaining this adaptable framework, the ECA is
+positioning itself to respond proactively to changes in the AI landscape, seize new
+opportunities, and address unforeseen challenges, all while upholding high standards
+of quality, security, and compliance.
+
+=== PDF 5쪽 ===
+                                                                                          5
+
+
+
+The evolving landscape
+08 Artificial intelligence is evolving at an unprecedented speed, shifting from narrow,
+task-specific tools to more autonomous and capable systems. One clear trend is the
+transition from personal AI assistants (tools that support individual users with drafting,
+summarising or retrieving information) to corporate “AI agents”. These are systems
+that can autonomously execute predefined tasks, support process coordination and
+manage workflows within human‑defined objectives and constraints, and with human
+oversight. This shift will require updated governance, clear accountability, and new
+controls to ensure reliability and compliance.
+
+09 In the field of public audit, this evolution means that AI support may extend
+beyond individual productivity tools. Emerging AI agents may support multiple phases
+of audit processes by performing predefined technical tasks – such as consistency
+checks, document preparation and structuring, and progress monitoring – all within
+predefined rules and under human supervision. As these agentic systems mature, they
+have the potential to reshape not only how audits are conducted, but also how audit
+quality is assured, how risks are identified, and how data is handled throughout the
+audit lifecycle. For institutions like the ECA, this shift requires a proactive governance
+approach, where AI is treated not just as a support tool, but as a strategic capability
+integrated into core processes.
+
+10 As AI systems become more widely integrated into organisational workflows, the
+quality of data and the ability to understand, manage and control algorithms become
+increasingly critical. Public institutions must ensure that the data they rely on is of
+good quality and is governed, processed, and stored in line with EU values, legal
+frameworks, and strategic interests. The ability to understand, validate, and, where
+necessary, audit the algorithms driving AI tools is equally important.
+
+11 To fully benefit from AI capabilities, organisations must ensure their data is of high
+quality, appropriately standardised and accessible for automated processing, in line
+with the principle of being “AI-ready by design”. This means going beyond traditional
+data storage and embracing standards that facilitate automated processing, retrieval,
+and integration. Preparing data for AI involves improving metadata quality, ensuring
+consistent formats, and maintaining traceability throughout the data lifecycle. For
+audit institutions, such data foundations are essential in order to enable AI tools and
+agents to support document handling, knowledge retrieval and other technical aspects
+of audit workflows, without replacing professional judgement.
+
+=== PDF 6쪽 ===
+                                                                                            6
+
+
+12 Another important element for unlocking the full potential of AI adoption is
+ensuring that our staff develop their “digital fluency” by acquiring an adequate
+foundation in disciplines such as the use of generative AI and data analytics.
+
+13 As AI adoption matures, implementation is becoming more complex, resource-
+intensive, and collaborative. What began as small-team experimentation with off-the-
+shelf tools will necessarily evolve into more sophisticated projects requiring larger
+multidisciplinary teams. These initiatives will span multiple directorates or even
+institutions, requiring strong governance and coordination, sustained investment, and
+continuous top-management commitment and support.
+
+14 The growing use of AI systems also requires the prioritisation of AI safety and
+security and ethical use. As AI tools become more integrated into organisational
+workflows and are used to process sensitive information, the risks linked to
+unintended outputs or data-protection concerns increase. Ensuring AI safety means
+putting in place controls that guarantee predictable, explainable, and reliable
+outcomes. Security, meanwhile, must cover the entire information lifecycle, protecting
+against misuse and malicious manipulation.
+
+15 While this strategy is mainly focused on the use of AI in audit, AI-supported tools
+may also be considered in other organisational processes. However, not all
+organisational processes carry the same level of risk when AI is introduced. Certain
+functions, such as HR and administrative services, involve the handling of personal,
+sensitive, or legally protected information, including data related to recruitment, staff
+management or access to internal services. Similar considerations may apply to data
+and information received from auditees. In these areas, the use of AI requires
+particular caution and the application of enhanced safeguards to ensure responsible,
+secure and legally compliant use.
+
+=== PDF 7쪽 ===
+                                                                                              7
+
+
+
+AI governance at the ECA
+16 The ECA has established an AI governance structure that allows it to tackle the
+multidisciplinary and cross-cutting challenges of AI.
+
+17 To ensure compliance with the EU AI act, the ECA has appointed an “AI Act
+correspondent”, whose role is to act as the primary point of contact with the European
+Data Protection Supervisor (the market surveillance authority for AI systems). The AI
+Act correspondent also chairs the Advisory Committee on AI. The adoption of AI brings
+with it several challenges and requires a multidisciplinary approach covering security,
+legal, human-resources, ethical and data-protection aspects, alongside technical
+considerations. The Advisory Committee reflects this diversity in its composition 1. Its
+core responsibilities include advising on institutional compliance with the regulatory
+framework governing the use of AI, coordinating the assessment and management of
+risks, and acting as an internal expert on AI-related matters.
+
+18 In 2025, the ECA also established an AI Steering Committee to oversee the
+development and deployment of AI systems within the ECA. The committee is
+responsible for guiding the implementation of the ECA’s AI strategy and roadmap and
+prioritising cross-departmental AI initiatives.
+
+
+
+
+1
+    Data Protection Officer, Information Security Officer and representatives from the DATA
+    team, the legal department and audit chambers.
+
+=== PDF 8쪽 ===
+                                                                                          8
+
+
+
+The ECA’s strategic AI goals
+19 In developing the ECA’s AI strategy for 2026-2030, we have chosen to build on the
+strategic goals outlined in the previous strategy, since they remain highly relevant and
+continue to align with the ECA vision. This enables us to ensure continuity and build
+upon the progress already achieved, while adapting to the evolving landscape.
+
+20 This AI strategy contributes to the achievement of the ECA’s strategic goals for
+2026-2030, in particular:
+
+o    ECA strategic goal 1: Improve the accountability, transparency and governance of
+     EU action
+
+     o    examine the quality and reliability of the information systems, data and –
+          where applicable – algorithms used by our auditees in the EU’s financial
+          management and governance;
+
+o    ECA strategic goal 2: Provide strong audit assurance on EU finances
+
+     o    make enhanced use of data and IT tools and technologies in our assurance
+          work, while addressing data reliability and other IT risks;
+
+o    ECA strategic goal 4: Strengthen our audit capacity and efficiency
+
+     o    value and invest in our staff, by promoting competence and expertise, and by
+          investing in upskilling, reskilling and the acquisition of new skills from a wide
+          geographical base;
+
+     o    be resilient and efficient, demonstrating the ability to face new challenges
+          and responsibilities, and incorporating the latest technologies in a secure
+          and reliable way.
+
+
+Goal 1: Enhance operational efficiency and quality
+21 This goal seeks to ensure that AI projects and investments add value to the ECA,
+through reasoned adoption of the necessary AI solutions and staff upskilling.
+
+22 Thanks to our recent pilot projects, by November 2025 half the ECA’s staff had
+access to a general-purpose AI tool. As an essential first step in the short term, we will
+work to give all our staff access to at least one general-purpose AI tool. This universal
+access will ensure a level playing field in digital capability across the organisation and
+support wider adoption of AI in our daily activities.
+
+=== PDF 9쪽 ===
+                                                                                          9
+
+
+23 The ECA will continue its journey toward the adoption of artificial intelligence,
+moving from individual use of AI tools for enhancing personal productivity to the
+exploration and deployment of more sophisticated AI agents, capable of supporting
+complex tasks. These agents can help automate and streamline processes, allowing
+auditors to focus on areas requiring professional judgement and critical analysis.
+
+24 The introduction of AI agents in a controlled and monitored manner will require
+robust human oversight to ensure that outputs are based on reliable sources, are
+comprehensive, and remain free from bias. It is important to take this into account
+when estimating efficiency gains, as some benefits may not be achieved immediately.
+
+25 We will prioritise actions that can meaningfully enhance our audit processes and
+add value to our work, ensuring our efforts are focused where they can have the
+greatest impact. This process will enable us to maximise the benefits of innovation,
+ensuring that proven solutions are deployed broadly to improve efficiency and
+effectiveness in our audit work.
+
+26 In the area of financial and compliance audit, we intend to make use of data-driven
+approaches and advanced IT tools and technologies to strengthen our assurance work.
+At the same time, we will pay close attention to issues of data reliability and other IT-
+related risks, integrating appropriate safeguards to uphold audit quality and integrity.
+For performance audits, we will adopt a dynamic approach by regularly reviewing pilot
+initiatives, assessing their outcomes, and scaling up those which demonstrate clear
+success across the organisation.
+
+27 This will be complemented by continued investment in AI literacy across the
+organisation, ensuring that all staff have the necessary knowledge and skills to use AI
+effectively and responsibly. Such efforts are crucial for fostering a culture of
+responsible AI use, as outlined by the EU AI Act, which underscores the importance of
+adequate training and awareness for users of AI systems.
+
+28 To facilitate the adoption of more sophisticated solutions, we will, alongside AI
+training, improve the “digital fluency” of our staff by ensuring that our auditors reach a
+sufficient level of knowledge in complementary disciplines, such as data analytics.
+
+
+Goal 2: Strengthen the ECA’s capability to audit AI-based
+projects, systems and processes
+29 This goal seeks to ensure that ECA auditors acquire the necessary skills and
+experience to be ready to audit AI-based systems and processes when our auditees
+start to deploy them.
+
+=== PDF 10쪽 ===
+                                                                                        10
+
+
+30 As AI is increasingly integrated into EU policies, programmes, and systems, we
+must strengthen our ability to understand the associated risks and audit these
+technologies. We will monitor international developments and incorporate relevant
+elements into our audit methodology, drawing in particular on the work of leading
+professional organisations such as the INTOSAI community and ISACA.
+
+31 Furthermore, we will actively scout EU systems that incorporate AI components,
+ensuring that our audits proactively take these aspects into consideration. This will
+enable us to provide robust assessments of how AI is being implemented and
+governed across the EU landscape.
+
+
+Goal 3: Add value and contribute to EU-wide and international
+discussions on AI
+32 This goal aims to ensure that the ECA is recognised as a competent and trusted AI
+expert in the field of public audit, and that we optimise the use of our resources by
+joining interinstitutional activities and investments.
+
+33 Continuing what the ECA has been doing in the past few years, we will reinforce
+our role as a contributor to the broader EU and international dialogue on AI. Building
+on our current activities, we will engage with key partners, including the European
+institutions, other supreme audit institutions, international organisations and
+academia.
+
+34 We will share our training material, methodologies, and lessons learned, and we
+will organise practical workshops to support the wider community of public sector
+auditors in navigating the challenges and opportunities presented by AI.
+
+=== PDF 11쪽 ===
+                                                                                         11
+
+
+
+Strategic AI actions
+35 To provide a clear and actionable roadmap for achieving our objectives, we have
+identified a set of strategic actions to guide implementation. These actions have been
+chosen to address recognised audit needs and audit chamber expectations. They draw
+on the DATA team’s expertise in supporting audit tasks, insights gained from
+experimental use of AI by ECA staff over the past two years, and focused discussions
+with audit directors. The following table illustrates how our goals translate into high-
+level strategic actions.
+
+36 Following further analysis and approval by the AI Steering Committee, the
+identified strategic actions may be developed into specific projects. The operational
+planning required for implementation will be incorporated into the forthcoming
+annual work programmes of the relevant directorates, and dedicated projects will
+follow the usual ECA project-management process, which includes performance
+indicators and cost-benefit analysis.
+
+          Goal                                   Related actions
+                           1) Extend access to tested AI tools to all staff, and
+                           continue evaluating new solutions
+                           2) Ensure that audit data is “AI-friendly”
+                           3) Identify and improve audit processes to enable AI
+                           automation
+ Goal 1: Enhance
+ operational efficiency    4) Develop people and capabilities
+ and quality
+                           5) Evaluate the potential of AI functionalities in existing
+                           tools
+                           8) Ensure ECA compliance with regulatory frameworks
+                           9) Explore how AI could streamline administrative
+                           processes
+                           4) Develop people and capabilities
+ Goal 2: Strengthen the
+ ECA’s capability to       6) Monitor and adopt upcoming principle-based
+ audit AI-based            requirements and application material on auditing AI
+ projects, systems and     8) Ensure ECA compliance with regulatory frameworks
+ processes
+
+=== PDF 12쪽 ===
+                                                                                            12
+
+
+           Goal                                     Related actions
+ Goal 3: add value and
+ contribute to EU-wide
+                             7) Work with other public institutions on AI solutions
+ and international
+ discussions on AI
+
+37 It is important to emphasise that enabling the use of artificial intelligence in audit
+goes far beyond simply implementing a series of technological projects. We must
+ensure that all ECA stakeholders collaborate in a coordinated way, working collectively
+towards shared goals and objectives.
+
+
+Action 1: extend access to tested AI tools to all staff, and
+continue evaluating new solutions
+38 In the past two years, we have run several pilot projects and experimental activities
+to assess the value of using various tools and solutions to support the audit use cases
+identified and explained in the previous strategy.
+
+39 To move forward and build on the experience gained from the recent pilot
+projects, the ECA will acquire sufficient licences to provide all staff with access to at
+least one general-purpose AI tool. We will continually evaluate costs and benefits.
+Based on future developments, the AI Steering Committee will decide on the
+appropriate mix and allocation and monitor the progress of this action.
+
+40 These tools are important but are not sufficient to cover all identified audit use
+cases. As explained in the previous strategy, we will continue to explore the adoption
+of solutions created and tested by other institutions. We will also consider running
+on-site AI models to enable automation and ensure strict data confidentiality when
+needed.
+
+41 One essential aspect when rolling out new tools and methodologies to all staff is
+effective change management, a process that involves multiple directorates. To
+support this transition, we will issue clear guidelines and organise awareness sessions,
+focusing in particular on the ethical implications and concerns associated with AI
+adoption. We will also emphasise the pivotal role of ECA management in actively
+encouraging the use of AI within their respective teams.
+
+=== PDF 13쪽 ===
+                                                                                         13
+
+
+Action 2: ensure that audit data is “AI-ready”
+42 At the ECA, data collection and management have always been of high importance
+for audit work, and remain critically challenging.
+
+43 In performance audits, evidence is gathered from a broad range of auditees. This
+includes our main auditees (EU institutions and member states), as well as
+international organisations and non-EU countries. Audit evidence is predominantly
+provided in the form of documents, which often lack a common or predictable format,
+making standardisation a complex task. To tackle this challenge, we need to establish
+robust, high-quality data management practices designed to efficiently process and
+organise both structured and unstructured information, ensuring that our data is
+compatible with the lawful and ethical use of AI applications.
+
+44 In financial and compliance audits, such as those relating to the statement of
+assurance on the reliability of the EU accounts, the situation is generally more
+manageable, as certain datasets tend to remain stable from year to year.
+
+45 To successfully integrate AI into our audit processes, we need AI-ready data. This
+means ensuring that, whenever possible, data is well organised, “clean” (accurate,
+consistent and error-free), and accessible. It should also be in formats that AI systems
+can easily process and analyse. To achieve this, we will:
+
+o    define standards and request that data be provided in a structured way whenever
+     possible;
+
+o    store audit evidence in a way that facilitates retrieval and reuse by AI systems;
+     and
+
+o    for unstructured information, implement AI-driven automation to enrich
+     documents with relevant metadata, improving searchability and contextual
+     understanding.
+
+46 High-quality, well-structured data is a prerequisite for capturing the full value of AI.
+By investing in robust data management practices, we will create a foundation on
+which all our other AI initiatives can build.
+
+47 It is equally essential to review and enhance our data classification policy, to
+ensure that it is consistent (on AI and other aspects) with the policies of our auditees,
+especially the European Commission, and that the classification stays consistent during
+the various exchanges and AI-based processing.
+
+=== PDF 14쪽 ===
+                                                                                        14
+
+
+48 Furthermore, we will proactively communicate with our auditees about our use of
+AI for data analysis whenever necessary, ensuring transparency and fostering trust
+throughout the audit process.
+
+
+Action 3: identify and improve audit processes to enable
+AI automation
+49 To fully benefit from artificial intelligence, we must analyse, adapt and improve our
+audit processes so they can be effectively supported by AI-enabled tools. This means
+working with audit chambers to identify where automation can bring tangible value,
+and to ensure that our methodology, documentation and outputs are structured in
+such a way as to support the reliable and transparent use of AI.
+
+50 A preliminary pilot project using AI to support audit checklist completion has
+shown that revising and rephrasing the audit questions would considerably improve
+the quality and accuracy of AI-assisted answers. In general, in order to improve our
+audit checklists we need to group the sub-questions such as to enable us to split audit
+programmes efficiently between AI and the auditors.
+
+51 For financial and compliance audit work, we will explore how AI can support the
+execution phase, for instance by assisting in the analysis of underlying data, pre-filling
+sections of our audit programmes based on established templates, or generating draft
+observations that can be further refined by auditors. Any such use of AI will be
+carefully monitored to ensure that human judgement remains central to these key
+deliverables.
+
+52 We could develop AI agents that support evidence research, helping auditors
+quickly identify, extract, and categorise relevant information from large collections of
+documents and data sources. For example, these research agents could improve the
+production of knowledge-management documents.
+
+=== PDF 15쪽 ===
+                                                                                       15
+
+
+
+  Box 2
+
+  Examples of recurrent audit activities that could benefit from AI-
+  enabled automation
+  Based on the experience gained from audit work, the following activities could be
+  analysed as candidates for AI‑supported automation:
+
+  o    compliance audits of public procurement;
+
+  o    automated extraction of data from large and unstructured sources, such as
+       invoices, contracts and legislative documents;
+
+  o    analytical review, trend analysis and comparison of large document sets;
+
+  o    information summarisation; and
+
+  o    classification of beneficiaries of EU funds.
+
+
+
+Action 4: develop people and capabilities
+53 AI literacy is a key component of our digital transformation journey. We will ensure
+that adequate training is available to all staff through multiple communication
+channels (internal learning platform, awareness sessions, coaching, informal
+gatherings, etc.) and introduce a dedicated, compulsory, AI and data-analytics learning
+programme for our staff.
+
+54 In addition to updating our guidance, we will take steps to equip auditors with the
+necessary knowledge and skills to audit AI. Therefore, we will enhance the skills
+required to understand AI-related risks and controls, as well as the technical challenges
+that such systems present.
+
+55 Compliance also requires that our staff be aware of their obligations and
+understand the ethical and legal implications of using AI. We will continue to invest in
+AI literacy efforts, ensuring that all staff receive appropriate training on the
+responsible use of AI, including data protection, transparency obligations, and human
+oversight requirements.
+
+56 Our approach will combine formal training sessions, peer learning opportunities,
+and practical resources to ensure staff remain confident and capable as AI
+technologies continue to evolve.
+
+=== PDF 16쪽 ===
+                                                                                         16
+
+
+Action 5: evaluate the potential of AI functionalities in existing
+tools
+57 To reap the full benefits of artificial intelligence, we must integrate AI capabilities
+into the tools that our staff use daily. Rather than treating AI as a separate set of tools
+and applications, we will gradually embed AI functionalities into our existing platforms
+and workflows, ensuring they become a part of our audit processes, subject to the
+availability of AI‑ready data.
+
+58 For legacy tools developed in-house, we will assess how and to what extent new
+AI-driven functionalities can be integrated. In parallel, we will systematically review the
+market to identify solutions that best meet our institutional requirements. When
+evaluating proposed AI enhancements, we will carefully assess their potential added
+value relative to associated costs. We will also benchmark our approach by examining
+the strategies and experiences of other supreme audit institutions and the European
+Commission in this domain.
+
+59 The integration of AI-driven functionalities will focus on enhancing core
+productivity and analytical tools with AI features, such as drafting assistants, intelligent
+document search, data extraction, automated audit processes, and context-aware
+recommendations. The aim is to reduce the time spent on repetitive tasks, improve
+information retrieval, and support the production of high-quality outputs.
+
+60 For example, the following ECA tools could benefit from integrated AI
+functionalities, as explained below.
+
+o    The ECA audit document management system could be a priority for integrating
+     AI, since it houses an extensive knowledge base comprising past audit
+     programmes, transaction findings, working papers, and datasets. As much of this
+     information is stored in formats such as Word, PDF, and Excel, any AI initiative will
+     require a preliminary phase to assess, clean, and transform these resources into
+     AI-ready formats. For example, with AI, any audit document management system
+     could assist with the preliminary assessment of a new audit, the preparation of
+     audit questions, and the drafting of audit observations, findings and clearing
+     letters.
+
+o    Building on the successful proof-of-concept of an AI chatbot that can answer
+     questions based on our audit methodology, we could launch a full project to
+     develop a production-ready version. This tool should be accessible to all staff and
+     potentially to external users via the ECA website, serving not only as an internal
+     resource but also as a means of sharing our methodology and expertise.
+
+=== PDF 17쪽 ===
+                                                                                      17
+
+
+o    Most vendors are enhancing their data visualisation tools with AI‑supported
+     analytical features. We will engage with audit teams to assess whether newer
+     versions of these tools offer relevant AI capabilities and improve the effectiveness
+     of our work.
+
+o    One of the most common staff queries is how to use AI to produce meeting and
+     interview minutes. Although that could be obtained by combining existing ECA
+     tools, it may be useful to design or purchase a specific tool to facilitate this
+     frequent activity and improve efficiency.
+
+o    Some tools used by the Language and Editorial Directorate already include
+     integrated AI features. We could explore and test the potential of secure EU-
+     based AI models for improving translation and review workflows.
+
+o    The ECA’s onboarding platform could be further enhanced by using AI (for
+     providing virtual assistance, answering FAQs, and guiding newcomers through
+     initial training materials and procedures).
+
+
+Action 6: monitor and adopt upcoming principle-based
+requirements and application material on auditing AI
+61 To be ready to audit AI-powered systems and processes, we must be aligned with
+technological developments and regulatory requirements. Annex I lists standards and
+regulations that are relevant for auditing AI at the time of writing. We will regularly
+review and, when needed, revise our guidance, incorporating best practices from the
+wider audit profession, including those emerging from organisations such as the
+INTOSAI community and ISACA.
+
+62 Updates will be reflected in AWARE, ensuring that auditors have access to the most
+recent guidance. This will reinforce AWARE as a central hub for knowledge,
+methodology, and practical instructions in the evolving landscape of AI audit.
+
+
+Action 7: work with other public institutions on AI solutions
+63 To ensure that the European Court of Auditors can benefit fully from AI initiatives
+under development at the European Commission, we will work closely with the
+Commission team to identify how we could tailor their tools to our specific needs as an
+audit institution. For example:
+
+=== PDF 18쪽 ===
+                                                                                       18
+
+
+o    Include ECA-specific requirements: we will define and communicate our
+     functional and security requirements to ensure that tools meet the standards
+     necessary for our audit work.
+
+o    Specific and separate ECA prompt library: we will develop a dedicated library of
+     prompts, tailored to the needs of our auditors and support services.
+
+o    Connection with ECA knowledge bases: we will explore whether and how tools
+     developed by the Commission can be securely connected to our internal
+     knowledge bases, to provide contextually accurate and ECA-specific responses.
+     This will enhance the relevance of AI-generated content and make it directly
+     applicable to our audit tasks.
+
+o    We will continue to explore developments and solutions being designed or
+     procured by other institutions with similar needs. For example, we could examine
+     the new AI-enabled case management system of the Court of Justice of the
+     European Union.
+
+o    We will co-operate with other supreme audit institutions, taking advantage of
+     existing working groups (INTOSAI, EUROSAI, etc.), to build on their experience and
+     knowledge in the field of public audit. Furthermore, we aim to set up partnerships
+     with academia on audit innovation.
+
+o    We will maintain close cooperation with the translation services of other EU
+     institutions to map the rapidly evolving AI landscape in translation tools and
+     identify opportunities.
+
+o    We will continue to take part in the AI for HR community of HR professionals to
+     stay abreast of developments in the other EU institutions, exchange knowledge
+     and experiences and benefit from potential synergies.
+
+64 Combining efforts with other institutions and SAIs could enable us to reduce costs,
+avoid duplicating AI efforts, and promote the reusability of shared solutions.
+
+
+Action 8: ensure ECA compliance with regulatory frameworks
+65 As the use of artificial intelligence becomes more widespread, it is critical to ensure
+compliance with evolving regulatory frameworks to maintain the trust, integrity, and
+legality of our operations.
+
+66 We will ensure that all AI tools and processes deployed at the ECA comply with the
+requirements of the EU AI Act and other relevant EU legislation. This includes
+
+=== PDF 19쪽 ===
+                                                                                       19
+
+
+assessing each use case against the Act’s risk categories, implementing the required
+transparency and oversight measures, and maintaining documentation to demonstrate
+conformity. Where appropriate, we will work with the European Commission and
+other institutions to align our practices with emerging EU-wide standards.
+
+67 In addition, we could consider adopting relevant elements of ISO/IEC 42001, the
+Artificial Intelligence Management System standard (see Annex I). This will provide a
+structured framework for managing AI risks and opportunities, complementing our
+efforts to embed compliance into both our technical solutions and our organisational
+culture.
+
+
+Action 9: explore how AI could streamline administrative
+processes
+68 AI can bring significant benefits by helping streamline administrative processes and
+enhance operational efficiency. We will therefore explore how AI can enhance our HR
+and financial functions by building on existing frameworks or introducing new
+solutions, in full compliance with applicable legal, ethical and data‑protection
+requirements. In particular, these activities may include:
+
+o   Process support: our Human Resources Directorate handles multiple processes
+    ranging from selection, recruitment, career development, ethics, learning and
+    development, and business travel. In order to improve these workflows, we will
+    embed compliance‑by‑design (including purpose limitation, data minimisation,
+    access controls and auditability). We will also assess AI components for risk,
+    transparency and human‑in‑the‑loop controls, aiming for AI‑ready, by‑design
+    solutions which uphold the principles of confidentiality and non-discrimination.
+
+o   Offboarding: the need for an offboarding tool has already been communicated as
+    a priority project. AI features, similar to those mentioned for the onboarding
+    platform, could bring additional value to this tool.
+
+o   Financial administration: we are assessing potential ways of automating certain
+    financial operations. AI could be used to automate invoice processing, expense
+    tracking, and financial reporting, while ensuring that controls are in place to
+    provide accuracy, transparency, data protection and accountability, and that final
+    responsibility remains with staff.
+
+o   Client service and support: an AI chatbot could handle standard staff enquiries,
+    currently processed in a semi-automated manner by our HR Services Centre. This
+
+=== PDF 20쪽 ===
+                                                                                        20
+
+
+    would bring significant benefits for staff while allowing HR teams to focus on
+    more value-added tasks.
+
+o   Learning and development: AI can personalise learning experiences for staff,
+    tailoring training programmes to individual needs and career paths. AI-driven
+    platforms can recommend courses and materials based on staff profiles and
+    learning history while ensuring transparency, fairness and compliance with
+    applicable data‑protection and ethical requirements.
+
+o   Internal controls: the Human Resources Directorate performs a wide range of
+    compliance controls, relying on checklists and the review of samples of similar
+    transactions. AI could be used to support these controls, e.g. by assisting with
+    routine compliance checks, provided that its use is subject to appropriate
+    governance, transparency and human oversight, and that accountability for
+    control results remains with staff.
+
+o   Recruitment: for large‑scale selection procedures involving a high number of
+    applications, AI tools could be used to support the recruitment process by
+    performing an initial screening of candidates’ eligibility against published
+    requirements. Any such use would be limited to a preliminary assessment, with
+    human review and final decision‑making remaining fully with the selection panels,
+    in line with applicable legal, ethical and regulatory requirements governing
+    transparency, data management, and monitoring of the use of AI tools, provided
+    for, inter alia, in the EU AI Act.
+
+69 The ECA’s Language and Editorial Directorate will gradually integrate secure and
+reliable AI solutions into translation and revision workflows. While significant
+progress has been made in the past few years, several additional investments are
+necessary to achieve a fully integrated AI support system. Some opportunities that we
+could explore in the next years are:
+
+o   obtaining machine-to-machine (API) access to relevant Commission tools;
+
+o   acquiring licences for commercial large language models, with API access, while
+    fully addressing data security, confidentiality and compliance constraints;
+
+o   testing and, if suitable, deploying the tools used by the Court of Justice of the
+    European Union and other EU institutions;
+
+o   completing migration to a cloud environment, in line with EU security standards,
+    to enable AI automation.
+
+=== PDF 21쪽 ===
+                                                                                      21
+
+
+o   further developing the directorate’s prompt library, with appropriate quality
+    controls and documentation.
+
+
+
+Conclusion
+70 By implementing these strategic actions, the ECA will accelerate the responsible
+adoption of AI, enhance audit quality and efficiency, and ensure staff are equipped
+with the necessary skills. Improved data quality and process automation will lay a
+strong foundation for reliable AI use, while ongoing collaboration and compliance
+efforts will position the ECA as a leader in public sector auditing. Together, these
+measures will drive progress towards the ECA’s goals of operational excellence, robust
+AI audit capability, and a meaningful contribution to EU AI initiatives.
+
+=== PDF 22쪽 ===
+                                                                                        22
+
+
+
+Annexes
+
+Annex I – Overview of existing standards relevant for AI audit
+Frameworks
+
+   -   International Internal Audit Standards Board (IAASB) Technology position
+       initiative
+   -   Institute for Internal Auditors (IIA) framework for AI
+
+Standards set by legislation
+
+   -   EU AI Act, establishing a risk classification and legal requirements, especially for
+       high-risk systems
+   -   GDPR, EU DPR and other existing regulations, which also apply and remain
+       relevant
+
+Governance and management standards
+
+   -   ISO/IEC 42001:2023 – AI Management System (AIMS) standard, specifying
+       requirements for establishing and continually improving an AIMS within an
+       organisation
+   -   ISO/IEC 38507:2022 on the governance implications of the use of AI in an
+       organisation
+   -   ISO/IEC 5338:2023, defining AI system lifecycle processes
+
+Risk management standards
+
+   -   NIST AI Risk Management Framework (January 2023), providing a structured
+       approach to identify and mitigate AI risks, organised into four core functions:
+       Map, Measure, Manage, and Govern
+   -   ISO/IEC 23894:2023 – Guidance on risk management for AI, complementing ISO
+       31000:2018
+
+Technical standards
+
+   -   ISO/IEC TR 24027:2021 on managing and assessing bias in AI systems
+   -   ISO/IEC TR 24028:2020 on AI trustworthiness (overview of reliability, security,
+       etc.)
+   -   ISO/IEC 24029-1:2021 on evaluating the robustness of neural networks
+
+=== PDF 23쪽 ===
+                                                                                    23
+
+
+Ethical principles and frameworks
+
+   -   EU High-Level Expert Group, “Ethics Guidelines for Trustworthy AI” (2019)
+   -   OECD AI principles (2019)
+   -   UNESCO Recommendation on the Ethics of AI (2021)
+   -   IEEE 7000-series, focusing on ethical considerations in the design of
+       autonomous and intelligent systems
+   -   International Ethics Standards Board for Accountants (EISBA) working group
+
+Other standards
+
+The European Committee for Standardisation (CEN) has also published several
+standards.
+
+=== PDF 24쪽 ===
+COPYRIGHT
+© European Union, 2026
+
+The reuse policy of the European Court of Auditors (ECA) is set out in ECA Decision
+No 6-2019 on the open data policy and the reuse of documents.
+
+Unless otherwise indicated (e.g. in individual copyright notices), ECA content owned by
+the EU is licensed under the Creative Commons Attribution 4.0 International
+(CC BY 4.0) licence. As a general rule, therefore, reuse is authorised provided
+appropriate credit is given and any changes are indicated. Those reusing ECA content
+must not distort the original meaning or message. The ECA shall not be liable for any
+consequences of reuse.
+
+Additional permission must be obtained if specific content depicts identifiable private
+individuals, e.g. in pictures of ECA staff, or includes third-party works.
+
+Where such permission is obtained, it shall cancel and replace the above-mentioned
+general permission and shall clearly state any restrictions on use.
+
+To use or reproduce content that is not owned by the EU, it may be necessary to seek
+permission directly from the copyright holders.
+
+Cover photo: © C VrStudio – stock.adobe.com.
+
+Software or documents covered by industrial property rights, such as patents,
+trademarks, registered designs, logos and names, are excluded from the ECA’s reuse
+policy.
+
+The European Union’s family of institutional websites, within the europa.eu domain,
+provides links to third-party sites. Since the ECA has no control over these, you are
+encouraged to review their privacy and copyright policies.
+
+Use of the ECA logo
+
+The ECA logo must not be used without the ECA’s prior consent.
+
+
+
+
+  PDF        ISBN 978-92-849-7559-4       doi:10.2865/0385430       QJ-01-26-023-EN-N
+
+=== PDF 25쪽 ===
+HOW TO CITE
+European Court of Auditors, “Artificial Intelligence Strategy for 2026-2030”,
+Publications Office of the European Union, 2026.

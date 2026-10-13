@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.claude/settings.local.json
+
+# NAO 원문은 저작권 조건상 저장소에 넣지 않는다(수업 중 각자 받음)
+sources/해외감사기구/The-NAOs-AI-Strategy.pdf

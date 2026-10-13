@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:gao.gov)",
+      "WebFetch(domain:*.gao.gov)",
+      "WebFetch(domain:nao.org.uk)",
+      "WebFetch(domain:*.nao.org.uk)",
+      "WebFetch(domain:eca.europa.eu)",
+      "WebFetch(domain:*.eca.europa.eu)",
+      "WebFetch(domain:oecd.org)",
+      "WebFetch(domain:*.oecd.org)",
+      "WebFetch(domain:nabo.go.kr)",
+      "WebFetch(domain:*.nabo.go.kr)"
+    ],
+    "deny": [
+      "Edit(/sources/**)"
+    ]
+  }
+}
